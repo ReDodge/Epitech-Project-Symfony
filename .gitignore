@@ -26,6 +26,7 @@
 
 # Parameters
 /app/config/parameters.yml
+/config/jwt
 /app/config/parameters.ini
 
 # Managed by Composer
